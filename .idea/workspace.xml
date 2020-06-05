@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bb5d856-0dab-434a-9123-201d50f7f887" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1cUgSP50vY7e4RMrb28D93jL2DU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="D:/Various/strony/Starter/Starter/index.html" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Starter/Starter/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bb5d856-0dab-434a-9123-201d50f7f887" name="Default Changelist" comment="" />
+      <created>1590588584990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590588584990</updated>
+      <workItem from="1590588588266" duration="19000" />
+      <workItem from="1590588664240" duration="129000" />
+      <workItem from="1590588849187" duration="728000" />
+      <workItem from="1590590932212" duration="766000" />
+      <workItem from="1590598911831" duration="558000" />
+      <workItem from="1590599481660" duration="1750000" />
+      <workItem from="1590601322050" duration="3147000" />
+      <workItem from="1590677084446" duration="4776000" />
+      <workItem from="1590750176440" duration="9423000" />
+      <workItem from="1590852198075" duration="3835000" />
+      <workItem from="1590948457405" duration="5597000" />
+      <workItem from="1591028421005" duration="6196000" />
+      <workItem from="1591041430464" duration="2000" />
+      <workItem from="1591093808086" duration="3991000" />
+      <workItem from="1591207762527" duration="1226000" />
+      <workItem from="1591264359249" duration="1115000" />
+      <workItem from="1591265528152" duration="14000" />
+      <workItem from="1591265560017" duration="1000" />
+      <workItem from="1591267275646" duration="44000" />
+      <workItem from="1591343962166" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="218" key="#Images" timestamp="1590754945376">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="709" y="218" key="#Images/0.0.1920.1050@0.0.1920.1050" timestamp="1590754945376" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1590755196952">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1590755196952" />
+    <state x="668" y="242" width="583" height="566" key="find.popup" timestamp="1590752258635">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="242" width="583" height="566" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1590752258635" />
+    <state x="736" y="392" width="555" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590754955280">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="736" y="392" width="555" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590754955280" />
+  </component>
+</project>
